@@ -1,7 +1,7 @@
 # 🍑 Prune Classifier - Application Mobile de Tri Automatique des Prunes
 
 
-![Uploading WhatsApp Image 2025-04-16 à 09.42.38_b80ab6e6.jpg…]()
+![Uploading WhatsApp Image 2025-04-16 à 09.42.38_b80ab6e6.jpg](Uploading WhatsApp Image 2025-04-16 à 09.42.38_b80ab6e6.jpg)
 
 
 Flutter  apps links download  : https://firebasestorage.googleapis.com/v0/b/itchop-9bf14.appspot.com/o/PlumAnalyserAppV1.apk?alt=media&token=1295c76b-97c0-4ab5-bdd5-527527a63bc4  <br>
@@ -11,9 +11,7 @@ API LINK : https://api-prune.onrender.com/docs
 
 **Prune Classifier** est une application mobile Flutter qui permet de classifier des prunes africaines en six catégories différentes à l'aide d'un modèle de Deep Learning embarqué avec TensorFlow Lite. Ce projet a été développé dans le cadre du JCIA Hackathon 2025 (Journée Internationale de l'Intelligence Artificielle), organisé au Cameroun.
 
-<div align="center">
-  <img src="/api/placeholder/600/350" alt="Bannière Prune Classifier" />
-</div>
+
 
 ## 🎯 Objectif
 
