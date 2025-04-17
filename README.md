@@ -1,8 +1,8 @@
 # 🍑 Prune Classifier - Application Mobile de Tri Automatique des Prunes
-![WhatsApp Image 2025-04-16 à 09 42 38_07cc5576](https://github.com/user-attachments/assets/da72853e-bb34-457d-bfc2-09c3bf939e14)
 
 
 
+<img src="https://github.com/user-attachments/assets/da72853e-bb34-457d-bfc2-09c3bf939e14" style="width: 200px; height: auto;">
 
 
 Flutter  apps links download  : https://firebasestorage.googleapis.com/v0/b/itchop-9bf14.appspot.com/o/PlumAnalyserAppV1.apk?alt=media&token=1295c76b-97c0-4ab5-bdd5-527527a63bc4  <br>
