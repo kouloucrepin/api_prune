@@ -1,7 +1,7 @@
 # 🍑 Prune Classifier - Application Mobile de Tri Automatique des Prunes
 
 
-Flutter  apps links download  : https://firebasestorage.googleapis.com/v0/b/itchop-9bf14.appspot.com/o/PlumAnalyserAppV1.apk?alt=media&token=1295c76b-97c0-4ab5-bdd5-527527a63bc4
+Flutter  apps links download  : https://firebasestorage.googleapis.com/v0/b/itchop-9bf14.appspot.com/o/PlumAnalyserAppV1.apk?alt=media&token=1295c76b-97c0-4ab5-bdd5-527527a63bc4  <br>
 API LINK : https://api-prune.onrender.com/docs
 
 ## 📱 Aperçu du Projet
